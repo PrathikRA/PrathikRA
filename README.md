@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathikRA
 - 👀 I’m interested in Development or Testing 
-- 🌱 I’m currently learning ...
+- 🌱 I'm a Learner
 - 📫 How to reach me:- @prathikracharya76@gmail.com
 
 <!---

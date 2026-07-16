@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @PrathikRA
-- 👀 I’m interested in Development or Testing 
-- 🌱 I'm a Learner
-- 📫 How to reach me:- @prathikracharya76@gmail.com
+Software Engineer | PHP Laravel Developer
+Backend Developer | REST APIs | MySQL | Python
+Building scalable web applications 🚀
 
-<!---
-PrathikRA/PrathikRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi there 👋 I'm Prathik
+
+💻 Software Engineer specializing in PHP Laravel
+
+🚀 Tech Stack
+- PHP
+- Laravel
+- Filament
+- Python
+- MySQL
+- JavaScript
+- HTML/CSS
+- Git
+
+🌱 Currently Learning
+- FastAPI
+- Docker
+- System Design
+
+📫 Reach me
+📧 prathikr42001@gmail.com
+💼 LinkedIn: linkedin.com/in/prathik-r-achar

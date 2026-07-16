@@ -24,4 +24,4 @@ Building scalable web applications 🚀
 
 📫 Reach me
 📧 prathikr42001@gmail.com
-💼 LinkedIn: linkedin.com/in/prathik-r-achar
+💼 LinkedIn: linkedin.com/in/prathik-r-achar⁠

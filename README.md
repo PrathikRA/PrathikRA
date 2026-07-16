@@ -1,8 +1,3 @@
-Software Engineer | PHP Laravel Developer
-Backend Developer | REST APIs | MySQL | Python
-Building scalable web applications 🚀
-
-
 # Hi there 👋 I'm Prathik
 
 💻 Software Engineer specializing in PHP Laravel

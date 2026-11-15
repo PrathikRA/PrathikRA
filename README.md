@@ -15,19 +15,17 @@ Building scalable backend applications and exploring the possibilities of Genera
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,mysql,postgres,redis,git,azure" />
 </p>
 
-### 🚀 Featured Projects
+### 🌱 Currently Exploring
 
-| Project | Description | Tech |
-|---|---|---|
-| 🧠 AI Knowledge Assistant | Document-based AI assistant with semantic search and RAG | Python, FastAPI, FAISS |
-| ⚙️ Renewal Management System | Backend platform for managing clients, domains and renewals | Django, DRF, PostgreSQL |
-| 📊 Resource Management System | Business management platform with automated renewal workflows | Laravel, Filament, MySQL |
+- Advanced LLM Applications
+- AI Agents
+- System Design
+- Docker & Containerization
 
 ### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathikRA&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRA&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ### 🤝 Let's Connect

@@ -21,13 +21,7 @@ Building scalable backend applications and exploring the possibilities of Genera
 - AI Agents
 - System Design
 - Docker & Containerization
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathikRA&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
+- 
 ### 🤝 Let's Connect
 
 <a href="https://linkedin.com/in/prathik-r-achar">LinkedIn</a> · <a href="mailto:prathikr42001@gmail.com">Email</a>

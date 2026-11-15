@@ -1,81 +1,35 @@
-# Hi there, I'm Prathik R 👋
+# Hey, I'm Prathik 👋
 
-### Software Engineer | Python Backend Developer | Generative AI
+### Software Engineer | Python Backend Developer
 
-I’m a Software Engineer focused on building scalable backend applications, REST APIs, and AI-powered solutions. I have experience working with Python, Django, FastAPI, PHP, and Laravel, along with database design, API integrations, and application development.
+Building scalable backend applications and exploring the possibilities of Generative AI.
 
-I enjoy solving real-world engineering problems and building practical applications using backend technologies and Generative AI.
+- 💻 Working with Python, Django, FastAPI and Laravel.
+- 🤖 Building applications with LLMs and Retrieval-Augmented Generation (RAG).
+- 🚀 Interested in backend architecture, APIs and solving real-world problems.
+- 🌱 Currently exploring AI Agents and System Design.
 
----
+### ⚡ Technologies I Work With
 
-### 🚀 Technical Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,mysql,postgres,redis,git,azure" />
+</p>
 
-**Languages**
-- Python, PHP, JavaScript, SQL
+### 🚀 Featured Projects
 
-**Backend Development**
-- Django, Django REST Framework, FastAPI
-- Laravel, REST API Development
-- JWT Authentication, API Integration
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 AI Knowledge Assistant | Document-based AI assistant with semantic search and RAG | Python, FastAPI, FAISS |
+| ⚙️ Renewal Management System | Backend platform for managing clients, domains and renewals | Django, DRF, PostgreSQL |
+| 📊 Resource Management System | Business management platform with automated renewal workflows | Laravel, Filament, MySQL |
 
-**Generative AI & LLM**
-- Generative AI, LLM Integration
-- LangChain, LangGraph
-- Retrieval-Augmented Generation (RAG)
-- Embeddings, FAISS, Prompt Engineering
+### 📊 GitHub Activity
 
-**Databases**
-- PostgreSQL, MySQL, Redis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathikRA&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRA&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-**Cloud & DevOps**
-- Microsoft Azure, CI/CD, Git, GitHub
-- Application Deployment, Server Hardening
+### 🤝 Let's Connect
 
-**Other Technologies**
-- ReactJS, Celery, HTML, CSS
-- API Testing, Postman, Swagger/OpenAPI
-
----
-
-### 💻 Featured Projects
-
-**1. AI-Powered Knowledge Assistant**
-- Built a document-based knowledge assistant using Retrieval-Augmented Generation.
-- PDF text extraction, document chunking, and semantic search.
-- Vector similarity search using embeddings and FAISS.
-- LLM integration for context-aware responses.
-
-**Tech:** Python, FastAPI, PyMuPDF, FAISS, RAG
-
-**2. Renewal Management System**
-- Developed a web application to manage clients, domains, services, and renewals.
-- Implemented JWT authentication, expiry tracking, and filtering.
-- Built automated email notification workflows.
-
-**Tech:** Python, Django, Django REST Framework, PostgreSQL
-
-**3. Resource Management System**
-- Developed a management platform for clients, domains, websites, renewals, and payment tracking.
-- Implemented CRUD operations, business logic, database relationships, and email reminders.
-
-**Tech:** PHP, Laravel, Filament, MySQL
-
-**4. Resto-OS**
-- Developed a restaurant management application.
-- Implemented table management, live orders, menu management, and billing workflows.
-
-**Tech:** PHP, Laravel, MySQL, Blade
-
----
-
-### 🌱 Currently Exploring
-- Docker and Containerization
-- System Design
-- Advanced LLM Applications and AI Agents
-
----
-
-### 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/prathik-r-achar
-- Email: prathikr42001@gmail.com
+<a href="https://linkedin.com/in/prathik-r-achar">LinkedIn</a> · <a href="mailto:prathikr42001@gmail.com">Email</a>
